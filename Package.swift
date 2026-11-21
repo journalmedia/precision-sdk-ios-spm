@@ -16,8 +16,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "PrecisionSDK",
-            url: "https://precision-cdn.s3.eu-west-1.amazonaws.com/mobile-sdks/ios/binaries/precision-sdk-ios/0.8.0/PrecisionSDK.xcframework.zip",
-            checksum: "9a7875fcd36593317d716511bf759c57954de7083289276fe98b8b761d39569d"
+            url: "https://precision-cdn.s3.eu-west-1.amazonaws.com/mobile-sdks/ios/binaries/precision-sdk-ios/0.9.0/PrecisionSDK.xcframework.zip",
+            checksum: "ec3b996cbc647431e649a2a65858f3fd5ac5458c70ad44ee41fa296c21b4a98b"
         )
     ]
 )
