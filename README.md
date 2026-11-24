@@ -13,7 +13,7 @@ Binary Swift Package distribution for `PrecisionSDK`.
 dependencies: [
     .package(
         url: "https://github.com/journalmedia/precision-sdk-ios-spm.git",
-        from: "0.9.1"
+        from: "0.9.2"
     )
 ]
 ```
